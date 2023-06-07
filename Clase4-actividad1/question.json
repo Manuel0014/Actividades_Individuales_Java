@@ -1,4 +1,4 @@
-{
+[{
   "category": "Cultura",
   "question": "¿Cuántos litros de sangre tiene una persona adulta?",
   "options": ["Tiene entre 2 y 4 litros", "Tiene entre 4 y 6 litros", "Tiene 10 litros", "Tiene 0,5 litros"],
@@ -11,4 +11,4 @@
   "options": ["Rusia y Vaticano", "China y Nauru", "Canadá y Mónaco", "India y San Marino"],
   "answer": 0,
   "explanation": "Rusia es el país mas grande del mundo con un área de 17 millones de km2, mientras el Vaticano tiene apenas 0,44 km2."
-}
+}]

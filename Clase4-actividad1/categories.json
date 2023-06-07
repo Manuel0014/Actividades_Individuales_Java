@@ -8,12 +8,12 @@
     "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Geografía",
+    "description": "Preguntas relacionadas con descripción o representación gráfica de la tierra"
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Filosofía",
+    "description": "Preguntas relacionadas con filosofos, pensamientos críticos, etc"
   },
   {
     "category": "Historia",

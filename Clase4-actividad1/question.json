@@ -2,6 +2,6 @@
   "category": "Cultura",
   "question": "¿Cuántos litros de sangre tiene una persona adulta?",
   "options": ["Tiene entre 2 y 4 litros", "Tiene entre 4 y 6 litros", "Tiene 10 litros", "Tiene 0,5 litros"],
-  "answer": "Tiene entre 4 y 6 litros",
+  "answer": 1,
   "explanation": "La cantidad de sangre varía de persona a persona. El volumen de sangre representa del 7 al 8% del peso corporal. De esta forma, en una persona adulta que pesa entre 50 y 80 kilogramos, puede haber entre 4 y 6 litros de sangre."
 }

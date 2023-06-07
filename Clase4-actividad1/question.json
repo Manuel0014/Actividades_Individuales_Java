@@ -5,10 +5,4 @@
   "answer": 1,
   "explanation": "La cantidad de sangre varía de persona a persona. El volumen de sangre representa del 7 al 8% del peso corporal. De esta forma, en una persona adulta que pesa entre 50 y 80 kilogramos, puede haber entre 4 y 6 litros de sangre."
 }
-{
-  "category": "Geografía",
-  "question": "¿Cuál es el país más grande y el más pequeño del mundo?",
-  "options": ["Rusia y Vaticano", "China y Nauru", "Canadá y Mónaco", "India y San Marino"],
-  "answer": 0,
-  "explanation": "Rusia es el país mas grande del mundo con un área de 17 millones de km2, mientras el Vaticano tiene apenas 0,44 km2."
-}
+
